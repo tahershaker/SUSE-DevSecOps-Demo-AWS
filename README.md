@@ -1,6 +1,6 @@
 # SUSE-DevSecOps-Demo-AWS
 
-__SUSE__ DevSecOps solutions [__SUSE Rancher Prime__, __SUSE Longhorn__, __SUSE NeuVector Prime__] Demonstration Lab Environment. Automate deployment, building, configuration and installation.
+__SUSE__ DevSecOps solutions [__SUSE Rancher Prime__, __SUSE Longhorn__, __SUSE NeuVector Prime__] demonstration lab environment. Automate deployment, building, configuration and installation.
 
 ---
 
