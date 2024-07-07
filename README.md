@@ -46,11 +46,5 @@ The info/code available in this GitHub repository may need to be change/edit bas
 
 ---
 
-| __Please Note:__ |
-| :--------------- |
-| The info/code available in this GitHub repository may need to be change/edit based on the SA/user using it. Please read carefully the instructions provided in the How To sections. |
-
----
-
 __Enjoy__ :smile:
 
